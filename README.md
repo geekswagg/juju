@@ -8,7 +8,7 @@ Juju is an open source application orchestration engine that enables any applica
 
 [![juju](https://snapcraft.io/juju/badge.svg)](https://snapcraft.io/juju)
 [![snap](https://github.com/juju/juju/actions/workflows/snap.yml/badge.svg)](https://github.com/juju/juju/actions/workflows/snap.yml)
-[![build](https://github.com/juju/juju/actions/workflows/build.yml/badge.svg)](https://github.com/juju/juju/actions/workflows/build.yml)
+[![Build](https://github.com/geekswagg/juju/actions/workflows/build.yml/badge.svg)](https://github.com/geekswagg/juju/actions/workflows/build.yml)
 
 ||||
 |-|-|- |
